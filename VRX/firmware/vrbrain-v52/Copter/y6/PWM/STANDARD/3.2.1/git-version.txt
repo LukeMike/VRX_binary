@@ -1,7 +1,7 @@
-commit d472095d1a932c923f7b8f0c2fa20d41dbf4b9ac
+commit f695f6dc59aa448be41450794fb5cc73337ced65
 Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Thu Dec 3 00:05:09 2015 +0100
+Date:   Mon Jun 6 08:39:57 2016 +0200
 
-    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+    Tools/scripts: added executable property to build_vrbrain_binaries_local.sh
 
 APMVERSION: ArduCopter V3.2.1

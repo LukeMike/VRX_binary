@@ -1,0 +1,7 @@
+commit 63ff316b40feace897f97d91c07c66c270ff843c
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jun 6 08:39:57 2016 +0200
+
+    Tools/scripts: added executable property to build_vrbrain_binaries_local.sh
+
+APMVERSION: ArduCopter V3.2.1

@@ -1,0 +1,7 @@
+commit aec2aa4a654881ce894aae1c1adec26de03d5d12
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jun 6 10:14:33 2016 +0200
+
+    Tools/scripts: adding copying of the VR Brain Core firmware
+
+APMVERSION: APM:Copter V3.3.3
