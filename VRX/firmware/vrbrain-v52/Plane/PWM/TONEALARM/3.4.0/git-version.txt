@@ -1,7 +1,7 @@
-commit 7500899a175063e1aeec90c0e3a08821d934faa9
+commit e0d0e66875e8674504338e89c1da17b852245cd7
 Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Thu Dec 3 00:05:09 2015 +0100
+Date:   Mon Jun 6 10:14:33 2016 +0200
 
-    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+    Tools/scripts: adding copying of the VR Brain Core firmware
 
 APMVERSION: ArduPlane V3.4.0

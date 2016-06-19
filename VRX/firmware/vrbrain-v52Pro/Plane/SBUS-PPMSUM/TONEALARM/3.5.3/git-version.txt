@@ -1,0 +1,7 @@
+commit 70870d68869210665b67c49aaeb721c1740e3983
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jun 6 10:14:33 2016 +0200
+
+    Tools/scripts: adding copying of the VR Brain Core firmware
+
+APMVERSION: ArduPlane V3.5.3
