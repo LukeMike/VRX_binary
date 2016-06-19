@@ -1,0 +1,7 @@
+commit 8eea1964e1aaecf4db0834f344d72d7b9fda229c
+Author: LukeMike <luca.micheletti.laser@gmail.com>
+Date:   Mon Jun 6 10:14:33 2016 +0200
+
+    Tools/scripts: adding copying of the VR Brain Core firmware
+
+APMVERSION: ArduRover v3.0.0

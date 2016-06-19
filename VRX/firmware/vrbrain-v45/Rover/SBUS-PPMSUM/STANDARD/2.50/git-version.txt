@@ -1,7 +1,7 @@
-commit e8096e2c01302d7ad6906200315c7a0100c1fb09
+commit fe2269f5e44c187dd852d8179a1de49e7220d528
 Author: LukeMike <luca.micheletti.laser@gmail.com>
-Date:   Thu Dec 3 00:05:09 2015 +0100
+Date:   Mon Jun 6 10:14:33 2016 +0200
 
-    Tools/scripts: changed script to build local branch and single board (parameters: -v vehicle -b board)
+    Tools/scripts: adding copying of the VR Brain Core firmware
 
 APMVERSION: ArduRover v2.50
